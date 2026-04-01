@@ -1,5 +1,6 @@
 # Introduction to Git
 Git is a **Distributed Version Control System (DVCS)** that enables efficient tracking of changes, branching, and collaboration among developers.
+---
 
 ## Git Lifecycle
  1. **Working Directory**: The local project files.
