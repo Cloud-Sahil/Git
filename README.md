@@ -114,6 +114,7 @@ Restores the file to the last committed state.
 ----
 ## Git Branching and Remote Repositories
 
+
 ## Git Branching
 
 Branching in Git allows developers to work on different versions of a repository independently. Branches help manage features, fixes, and releases without affecting the main codebase.
