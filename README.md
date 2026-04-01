@@ -1,5 +1,6 @@
 # Introduction to Git
 Git is a **Distributed Version Control System (DVCS)** that enables efficient tracking of changes, branching, and collaboration among developers.
+
 ---
 
 ## Git Lifecycle
@@ -7,11 +8,12 @@ Git is a **Distributed Version Control System (DVCS)** that enables efficient tr
  2. **Staging Area (Index)**: Files marked for the next commit.
  3. **Local Repository**: Commits stored in the local .git folder.
  4. **Remote Repository**: GitHub/GitLab/Bitbucket where the code is shared.
-
+---
 ~~~sh
 Working Directory → Staging Area → Local Repository → Remote Repository
 ~~~
 
+---
 
 
 # Introduction to SCM (Source Code Management) Tool
