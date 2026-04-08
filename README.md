@@ -202,7 +202,7 @@ GitHub allows users to create repositories with different levels of access contr
 
 ---
 ## How to Search Public Repositories
-1. **Go to GitHub Homepage**: [GitHub](https://github.com)
+1. **Go to GitHub Homepage**: `[GitHub](https://github.com)`
 2. **Use the Search Bar**: Type keywords related to the repository.
 3. **Filter by Language**: Select a programming language to refine results.
 4. **Sort by Trending or Stars**: Find popular repositories.
