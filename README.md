@@ -1,5 +1,5 @@
 # Introduction to Git
-Git is a `**Distributed Version Control System (DVCS)** that enables efficient tracking of changes, branching, and collaboration among developers.
+Git is a **`Distributed Version Control System (DVCS)`** that enables efficient tracking of changes, branching, and collaboration among developers.
 
 ---
 
