@@ -110,7 +110,7 @@ git restore <filename>
 Restores the file to the last committed state.
 
 ---
-# This document provides a fundamental understanding of **Git** and **SCM**, covering setup, commands, and workflow. 🚀
+## This document provides a fundamental understanding of **Git** and **SCM**, covering setup, commands, and workflow. 
 ----
 ## Git Branching and Remote Repositories
 
