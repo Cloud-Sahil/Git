@@ -1,5 +1,4 @@
-****#!/bin/bash****
-
+#!/bin/bash
 # ============================================
 # git-commands.sh
 # Git Commands Reference Script for DevOps Engineers
